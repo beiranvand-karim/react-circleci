@@ -1,5 +1,5 @@
 orbs:
-  react: "beiranvand-karim/react@dev:alpha"
+  react: "beiranvand-karim/react-circleci@master"
 version: 2.1
 workflows:
   push:
